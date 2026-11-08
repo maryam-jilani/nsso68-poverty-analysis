@@ -18,8 +18,8 @@ library(ggplot2)  # plots
 
 # Two addresses are written once, here, so only these two lines change
 # if the project moves to another computer.
-project_dir <- "D:/Maryam files/Projects/NSSO Poverty Analysis"
-raw_dir     <- "C:/Users/marya/Downloads/Data_in_CSV/Data_in_CSV"
+project_dir <- "~/NSSO Poverty Analysis"
+raw_dir     <- "~Downloads/Data_in_CSV/Data_in_CSV"
 
 # Work from the project folder, so "Data/..." and "Output/..." paths work.
 setwd(project_dir)
