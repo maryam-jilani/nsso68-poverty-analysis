@@ -2,7 +2,7 @@
 
 Independent practice project: estimating poverty and inequality in India from household microdata, written in R.
 
-Author: [MARYAM JILANI]
+Author:MARYAM JILANI
 
 ## Objective
 
